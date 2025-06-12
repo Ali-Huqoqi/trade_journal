@@ -4,14 +4,14 @@
 
 ## Overview
 
-This project analyses my trading journal data collected during my funded challenge with an online prop firm, which I successfully passed.  
-It computes performance metrics and visualises key insights such as cumulative profit/loss, monthly performance, best performing days, and most profitable currency pairs.
+This project analyses my trading data collected during a trading challenge with an online prop firm, which I successfully passed. It computes key performance metrics and visualises insights such as cumulative profit/loss, monthly performance, best performing days, and most profitable currency pairs.
 
 ## Usage
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ali-Huqoqi/trade_journal.git
+   cd trade_journal
    ```
 
 2. Install required packages:
